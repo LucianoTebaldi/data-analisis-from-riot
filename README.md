@@ -1,2 +1,4 @@
 # data-analisis-from-riot
-analisis from te api of riot, app of analisis for gamers 
+objetivos a hacer 
+el objetivo es poder tener una herramineta que nos permita analiziar los datos de nuestros juegos, 
+poder saber que personaje jugamos mas, saber cual es nuestra media de daño en el juego, y poder obtener una mejor interpretacion de los datos
